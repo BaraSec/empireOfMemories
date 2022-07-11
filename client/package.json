@@ -1,8 +1,7 @@
 {
-  "name": "mern-stack-client",
+  "name": "client",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://memories-project-part4.herokuapp.com/",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
@@ -20,9 +19,10 @@
     "react-google-login": "^5.2.2",
     "react-redux": "^8.0.2",
     "react-router-dom": "^6.3.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "redux": "^4.2.0",
-    "redux-thunk": "^2.4.1"
+    "redux-thunk": "^2.4.1",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
